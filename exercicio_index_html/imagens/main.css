@@ -52,12 +52,12 @@ section {
     padding: 16px;
 }
 
-section h2, h3,h4,h5
+section h2, h3,h4
 .articles article {
     margin-bottom: 16px;
 }
 
-.articles article h3, h4, h5 {
+.articles article h3, h4 {
     margin-top: 8px;
     margin-bottom: 8px;
 }
@@ -82,7 +82,7 @@ section h2, h3,h4,h5
     font-family: Arial, Helvetica, sans-serif;
 }
 
-.articles article h3, h4, h5 {
+.articles article h3, h4 {
     font-size: 24px;
 }
 
@@ -111,12 +111,4 @@ section h2, h3,h4,h5
 }
 #entertainment .articles article a {
     color:rgb(239, 236, 243)
-}
-
-#technology {
-    background-color: rgb(136, 136, 226);
-}
-
-#technology .articles article a {
-    color: rgb(226, 226, 236)
 }

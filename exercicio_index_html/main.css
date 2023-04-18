@@ -63,7 +63,7 @@ section h2, h3,h4,h5
 }
 
 .articles article a {
-    background-color: black;
+    background-color: none;
     color: #fff;
     padding: 8px;
     display: inline-block;
@@ -114,9 +114,9 @@ section h2, h3,h4,h5
 }
 
 #technology {
-    background-color: rgb(136, 136, 226);
+    background-color: rgb(140, 140, 247);
 }
 
 #technology .articles article a {
-    color: rgb(226, 226, 236)
+    color: rgb(192, 192, 238)
 }

@@ -30,7 +30,7 @@ header li a {
 }
 
 .container{
-    widht: 1366px;
+    width: 1366px;
     margin: 0 auto;
 }
 
@@ -110,7 +110,8 @@ section h2, h3,h4,h5
     background-color: rgb(219, 184, 211);
 }
 #entertainment .articles article a {
-    color:rgb(239, 236, 243)
+    color:black;
+    background-color: rgb(221, 227, 233);
 }
 
 #technology {
@@ -118,5 +119,6 @@ section h2, h3,h4,h5
 }
 
 #technology .articles article a {
-    color: rgb(192, 192, 238)
+    color: black;
+    background-color: blanchedalmond;
 }
